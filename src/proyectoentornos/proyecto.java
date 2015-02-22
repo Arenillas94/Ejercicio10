@@ -2,7 +2,7 @@ package proyectoentornos;
 
 /**
  * Clase para determinar el mayor, menor y media, de los números introducidos
- * @version 1.1
+ * @version 1
  * @author Jose Manuel Alba Jimenez
  * @see  Math
  * @see  Math#max
