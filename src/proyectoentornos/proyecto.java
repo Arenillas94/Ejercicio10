@@ -51,7 +51,7 @@ public class proyecto {
      * coinciden con los tipo de parametros del método.
      */
     public float Media(int Valor1, int Valor2) {
-        media = (Valor1 + Valor2 + 100) / 2; //La media tiene que aumentar en 100
+        media = (Valor1 + Valor2) / 2;
         return media;
     }
 
